@@ -1,6 +1,6 @@
 # Hello, I'm Pedro Henrique (pedroiff0) 👋
 
-I am a Computer Engineering student, interested in Astrophysics and Computing. Currently focused on learning programming and developing basic AI projects and academic systems of l[...]
+I am a Computer Engineering student, interested in Astrophysics and Computing. Currently focused on learning programming and developing basic AI projects and academic system
 
 ---
 
