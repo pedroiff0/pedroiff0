@@ -1,55 +1,48 @@
-# Hello, I'm Pedro Henrique (pedroiff0) 👋
+# Olá, sou o Pedro Henrique (pedroiff0) 👋
 
-I am a Computer Engineering student, interested in Astrophysics and Computing. Currently focused on learning programming and developing basic AI projects and academic system
-
----
-
-## About me
-- 👋 Name: Pedro Henrique Rocha de Andrade  
-- 👀 Interests: Astrophysics, Data Science, Artificial Intelligence, Web Development  
-- 🌱 Currently learning: Data structures, Programming (languages below), and fundamentals of Machine Learning  
-- 💞️ Open to collaborate on: initial AI projects, systems for academic use, educational tools  
-- 📫 Contact: pedroiff0@gmail.com  
-- 🔭 I'm working on: Anomaly Detection
+Estudante de **Engenharia de Computação** no Instituto Federal Fluminense (IFF) e bolsista de Iniciação Científica (**PIBIC/CNPq**), na interseção entre **computação** e **astrofísica**.
 
 ---
 
-## Technologies & Tools
-- Languages: Python, JavaScript, LaTeX, Node.js, C++, C  
-- Frameworks / Libraries: NumPy, Pandas, scikit-learn, Flask/Express, matplotlib  
-- Tools: Git, GitHub, VS Code, Jupyter Notebook
+## Sobre mim
+- 👋 Nome: **Pedro Henrique Rocha de Andrade**
+- 🛰️ Interesses: Astrofísica, Ciência de Dados, Inteligência Artificial, Desenvolvimento Web
+- 🔭 Pesquisa: arqueologia galáctica, populações estelares e estrutura da Via Láctea (Gaia + GALAH)
+- 🏆 Participante da **IAAC 2024 & 2025**; apresentações em FEBRACE, Mostratec, CONFICT
+- 📡 Certificações Cisco: **CCNA**, **CyberOps**, **IoT**
+- 💞️ Aberto a colaborar em: projetos de IA, sistemas acadêmicos e ferramentas educacionais
+- 📫 Contato: pedroiff0@gmail.com
 
 ---
 
-## Featured projects
-
-- [Anomaly Detection](https://github.com/pedroiff0/anomaly_detection) — Undergraduate Research Scholarship  
-  - Status: In development
-- [CalculoNumerico](https://github.com/pedroiff0/CalculoNumerico) — Python library for Numerical Calculations (Course project)  
-  - Status: In development
-- [Formularios](https://github.com/pedroiff0/formularios) — Tool/utility for forms and data collection (adapt description as needed)  
-  - Status: In development
+## Tech & Tools
+- **Linguagens:** Python, JavaScript, C, C++, LaTeX, Node.js
+- **Frameworks / Libs:** NumPy, Pandas, scikit-learn, Astropy, Flask/Express, Mongoose
+- **Ferramentas:** Git, GitHub, VS Code, Jupyter, Docker, Linux (servidores)
 
 ---
 
-## How to contribute
-1. Open an issue or a pull request in the repository of the project you want to help with.  
-2. Comment on the issue describing what you intend to do.  
-3. Create a branch with a descriptive name and open a PR when ready.
+## Portfólio & Site oficial
+- 🚀 **Portfólio (short resumé):** https://pedroiff0.github.io/webpage/ — introdução e resumo de todos os meus trabalhos (públicos e privados)
+- 🌐 **Site oficial (Quartz/Obsidian):** https://pedroiff0.github.io/page/ — conteúdo completo e em construção contínua
 
 ---
 
-## Statistics
-You can include automatic cards in your README to show GitHub statistics. Examples:
+## Projetos em destaque
+- [ReLaTeX](https://github.com/pedroiff0/relatex) — fork do Overleaf CE com a identidade do IFF (classes oficiais embutidas, tema azul). `privado`
+- [Sistema Acadêmico](https://github.com/pedroiff0/sistema-academico) — web para alunos de Eng. de Computação do IFF acompanharem notas, frequência e CR. `privado`
+- [Sistema de Avaliações](https://github.com/pedroiff0/avaliacoes) — provas/listas em PDF a partir de banco de questões (geração em LaTeX). `privado`
+- [Currículo (CV)](https://github.com/pedroiff0/cv) — CV em LaTeX (altacv), multilíngue PT/EN/ES/FR. `privado`
+- [anomaly_detection](https://github.com/pedroiff0/anomaly_detection) — propriedades estelares e química do GCNS via Gaia DR3 + GALAH DR4 (PIBIC/CNPq). `privado`
+- [SpectraViewer](https://github.com/pedroiff0/spectraviewer) — viewer interativo de espectros GALAH DR4. `público`
+- [Cálculo Numérico](https://github.com/pedroiff0/CalculoNumerico) — códigos da disciplina, com CI e docs. `público`
+- [Formulários](https://github.com/pedroiff0/formularios) — folhas de fórmulas em LaTeX. `público`
+- [guia-github](https://github.com/pedroiff0/guia-github) — boas práticas e templates de GitHub para Python. `público`
 
-- GitHub Readme Stats:
-  - ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroiff0&show_icons=true&theme=radical)
+> Veja a lista completa (24 repositórios) no [portfólio](https://pedroiff0.github.io/webpage/).
 
-- Most used languages:
-  - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroiff0&layout=compact&theme=radical)
 ---
 
-## Contact & networks
-- Email: pedroiff0@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/pedroiff0/  
-- Website: https://pedroiff0.github.io/webpage
+## Estatísticas
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroiff0&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroiff0&layout=compact&theme=radical)
