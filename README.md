@@ -69,7 +69,7 @@ $ pedro --status --now
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroiff0&theme=radical&hide_border=true&background=0d1117&stroke=c678dd&ring=c678dd&fire=c678dd&currStreakLabel=61afef&sideLabels=abb2bf&dates=abb2bf" alt="Streak" />
 
-[![wakatime](https://wakatime.com/badge/user/8f0e7c9f-9a3b-4d36-8f0e-2c5b6a7d8e9f/project/github.com/pedroiff0/pedroiff0.svg)](https://wakatime.com/badge/user/8f0e7c9f-9a3b-4d36-8f0e-2c5b6a7d8e9f/project/github.com/pedroiff0/pedroiff0)
+[![WakaTime](https://img.shields.io/badge/⏱️%20WakaTime-setup%20via%20secret-7B2FBF?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@pedroiff0)
 
 [![Visitors](https://komarev.com/ghpvc/?username=pedroiff0&label=👀%20profile%20views&color=c678dd&style=for-the-badge)](https://komarev.com/ghpvc/?username=pedroiff0)
 
@@ -82,11 +82,12 @@ $ pedro --status --now
   github-readme-stats) and swap the URL:
   https://YOUR-DEPLOY.vercel.app/api?username=pedroiff0&theme=radical
 
-  WakaTime badge above is a PLACEHOLDER URL. To activate real coding-time stats:
+  WakaTime card above is a placeholder badge. To activate real coding-time stats:
     1. Get your API key at https://wakatime.com/settings/api-key
     2. In this repo: Settings > Secrets > Actions > New repository secret
        name = WAKATIME_API_KEY  value = your key
-    3. The workflow .github/workflows/waka-readme.yml updates the README daily.
+    3. The workflow .github/workflows/waka-readme.yml fills the "Recent activity"
+       section daily (replace the placeholder text between START/END waka).
 -->
 
 ---
