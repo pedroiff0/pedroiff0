@@ -67,7 +67,7 @@ $ pedro --status --now
 
 <img src="https://ghchart.rshah.org/c678dd/pedroiff0" alt="Pedro's contribution chart" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroiff0&theme=radical&hide_border=true&background=0d1117&stroke=c678dd&ring=c678dd&fire=c678dd&currStreakLabel=61afef&sideLabels=abb2bf&dates=abb2bf" alt="Streak" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroiff0&theme=radical&hide_border=true&background=0d1117&stroke=c678dd&ring=c678dd&fire=c678dd&currStreakLabel=61afef&sideLabels=abb2bf&dates=abb2bf&v=2" alt="Streak" />
 
 [![WakaTime](https://img.shields.io/badge/⏱️%20WakaTime-tracked-7B2FBF?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@pedroiff0)
 
