@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<!-- banner animado: campo de estrelas + nome "digitando" -->
+<!-- banner animado: campo de estrelas + constelação -->
 <img src="https://raw.githubusercontent.com/pedroiff0/pedroiff0/main/assets/starfield.svg" width="100%" alt="starfield" />
 
 <br>
@@ -32,12 +32,11 @@
 
 </div>
 
-> 🇧🇷 Estudante de **Engenharia de Computação** apaixonado por **Astrofísica** e **Computação**.
-> Mapeio estrelas com dados do *Gaia* e do *GALAH*, treino modelos de ML para arqueologia
-> galáctica e construo sistemas web que resolvem problemas acadêmicos reais.
+> 🇧🇷 Estudante de **Engenharia de Computação** no Instituto Federal Fluminense (IFF) e bolsista de
+> Iniciação Científica (**PIBIC/CNPq**), na interseção entre **computação** e **astrofísica**.
 >
-> 🇺🇸 Computer Engineering student in love with **Astrophysics** & **Computing**. I map stars with
-> *Gaia*/*GALAH* data, train ML for galactic archaeology, and build web systems for real academic problems.
+> 🇺🇸 Computer Engineering student at the Federal Institute of Fluminense (IFF) and Scientific
+> Initiation fellow (**PIBIC/CNPq**), at the crossroads of **computing** and **astrophysics**.
 
 ---
 
@@ -45,14 +44,14 @@
 
 ```text
 $ pedro --status --now
-┌─ ÓRBITA ATUAL ────────────────────────────────────────────┐
-│ 🔭 PIBIC/CNPq · Detecção de Anomalias em estrelas da Via Láctea │
-│    Gaia DR3 + GALAH DR4 + GCNS · ML + Astroquímica          │
-│    co-autoria PUC Chile (Dra. M. L. L. Dantas)             │
-│ 🌱 Aprendendo: Estruturas de dados · fundamentos de ML     │
-│ 💞️  Aberto a colaborar: IA inicial · sistemas acadêmicos   │
-│ 📡 Localização: Bom Jesus do Itabapoana, RJ — Brasil       │
-└────────────────────────────────────────────────────────────┘
+┌─ ÓRBITA ATUAL ──────────────────────────────────────────────┐
+│ 🔭 Pesquisa: arqueologia galáctica, populações estelares e  │
+│    estrutura da Via Láctea (Gaia + GALAH)                    │
+│ 🏆 IAAC 2024 & 2025 · FEBRACE · Mostratec · CONFICT          │
+│ 📡 Certificações Cisco: CCNA · CyberOps · IoT               │
+│ 💞️  Aberto a colaborar: IA, sistemas acadêmicos, educação    │
+│ 📫 Contato: pedroiff0@gmail.com                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -77,18 +76,20 @@ $ pedro --status --now
 
 <div align="center">
 
-| 🪐 Projeto | 🧰 Stack | 📡 Status | 🔗 |
+| 🪐 Projeto | 🧰 Stack | 📡 Visibilidade | 🔗 |
 |---|---|---|---|
-| **Anomaly Detection** `🌟 pesquisa` | Python · Astropy · NumPy · Pandas · ML | 🚧 em desenvolvimento | [repo](https://github.com/pedroiff0/anomaly_detection) |
-| **SpectraViewer** `🔬 pesquisa` | Python · FITS · Matplotlib | ✅ público · open source | [repo](https://github.com/pedroiff0/spectraviewer) |
-| **Sistema Acadêmico** `💻 software` | Node · Express · MongoDB · EJS · vis-network | 🔒 privado | [repo](https://github.com/pedroiff0/sistema-academico) |
-| **Finanças App** `💰 software` | Node · Express · MongoDB · JWT · Docker | 🔒 privado | [repo](https://github.com/pedroiff0/financas-app) |
 | **ReLaTeX** `📄 software` | Docker · Node · Pug · LaTeX (Overleaf fork) | 🔒 privado | [repo](https://github.com/pedroiff0/relatex) |
-| **CalculoNumerico** `📐 acadêmico` | Python · NumPy · CI | ✅ público | [repo](https://github.com/pedroiff0/CalculoNumerico) |
+| **Sistema Acadêmico** `💻 software` | Node · Express · MongoDB · EJS · vis-network | 🔒 privado | [repo](https://github.com/pedroiff0/sistema-academico) |
+| **Sistema de Avaliações** `📝 software` | Node · Express · MongoDB · LaTeX | 🔒 privado | [repo](https://github.com/pedroiff0/avaliacoes) |
+| **Finanças App** `💰 software` | Node · Express · MongoDB · JWT · Docker | 🔒 privado | [repo](https://github.com/pedroiff0/financas-app) |
+| **Currículo (CV)** `📄 acadêmico` | LaTeX · altacv · Makefile · biblatex | 🔒 privado | [repo](https://github.com/pedroiff0/cv) |
+| **anomaly_detection** `🌟 pesquisa` | Python · Astropy · NumPy · Pandas · ML | 🔒 privado | [repo](https://github.com/pedroiff0/anomaly_detection) |
+| **SpectraViewer** `🔬 pesquisa` | Python · FITS · Matplotlib | ✅ público | [repo](https://github.com/pedroiff0/spectraviewer) |
+| **Cálculo Numérico** `📐 acadêmico` | Python · NumPy · CI · Docs | ✅ público | [repo](https://github.com/pedroiff0/CalculoNumerico) |
 | **Formulários** `📐 acadêmico` | LaTeX · siunitx | ✅ público | [repo](https://github.com/pedroiff0/formularios) |
 | **guia-github** `📚 pessoal` | Docs · Actions | ✅ público | [repo](https://github.com/pedroiff0/guia-github) |
 
-<sub>🌟 Veja a constelação completa (com bolsas, multilíngue PT/EN/ES/FR) em <a href="https://www.phrandandra.com/pt-br/">phrandandra.com</a> e no <a href="https://pedroiff0.github.io/webpage">portfólio</a>.</sub>
+<sub>🌟 Lista completa (24 repositórios) no <a href="https://pedroiff0.github.io/webpage/">portfólio</a> e no <a href="https://www.phrandrade.com/pt-br/">site oficial</a>.</sub>
 
 </div>
 
@@ -116,8 +117,8 @@ $ pedro --status --now
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -134,9 +135,16 @@ $ pedro --status --now
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0C9?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
+
+---
+
+## 🌐 Portfólio & site oficial · *portfolio & official site*
+
+- 🚀 **Portfólio (resumo curto):** https://pedroiff0.github.io/webpage/ — introdução e resumo de todos os trabalhos (públicos e privados)
+- 🌐 **Site oficial (Quartz/Obsidian):** https://pedroiff0.github.io/page/ · https://www.phrandrade.com/pt-br/ — conteúdo completo, em construção contínua
 
 ---
 
@@ -170,6 +178,6 @@ $ pedro --status --now
 
 <br>
 
-<sub>Feito com ☕ e ☄️ por Pedro · perfis: <a href="https://github.com/pedroiff0">GitHub</a> · <a href="https://www.phrandandra.com/pt-br/">Site oficial</a> · <a href="https://pedroiff0.github.io/webpage">Portfólio</a></sub>
+<sub>Feito com ☕ e ☄️ por Pedro · perfis: <a href="https://github.com/pedroiff0">GitHub</a> · <a href="https://www.phrandrade.com/pt-br/">Site oficial</a> · <a href="https://pedroiff0.github.io/webpage">Portfólio</a></sub>
 
 </div>
