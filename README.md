@@ -60,15 +60,21 @@ $ pedro --status --now
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroiff0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=c678dd&icon_color=61afef&text_color=abb2bf&bg_color=0d1117" alt="Pedro's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroiff0&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=c678dd&text_color=abb2bf&bg_color=0d1117" alt="Top languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroiff0&theme=radical&hide_border=true&bg_color=0d1117&color=c678dd&line=61afef&point=abb2bf&area=true&area_color=1a1b3a" alt="Contribution activity graph" />
 
 <br>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroiff0&theme=radical&hide_border=true&background=0d1117&stroke=c678dd&ring=c678dd&fire=c678dd&currStreakLabel=61afef&sideLabels=abb2bf&dates=abb2bf" alt="Streak" />
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=pedroiff0&theme=radical&column=4&margin-w=8&hide_border=true&no-bg=true" alt="Trophies" />
 
 </div>
+
+<!--
+  github-readme-stats (stats + top-langs) e github-profile-trophy estavam fora do ar
+  nas instâncias públicas (DEPLOYMENT_PAUSED / DEPLOYMENT_DISABLED). Para reativar o
+  cartão de "stats detalhado", self-host no seu Vercel (fork de
+  github.com/anuraghazra/github-readme-stats) e troque a URL abaixo:
+  https://SEU-DEPLOY.vercel.app/api?username=pedroiff0&theme=radical
+-->
 
 ---
 
