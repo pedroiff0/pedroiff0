@@ -93,7 +93,7 @@ $ pedro --status --now
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2026 - To: 08 August 2026
+From: 02 August 2026 - To: 09 August 2026
 
 No activity tracked
 ```
