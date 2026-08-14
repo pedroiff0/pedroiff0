@@ -189,6 +189,6 @@ No activity tracked
 
 <br>
 
-<sub>Made with ☕ and ☄️ by Pedro · profiles: <a href="https://github.com/pedroiff0">GitHub</a> · <a href="https://www.phrandrade.com/">Official site</a> · <a href="https://pedroiff0.github.io/webpage">Portfolio</a></sub>
+<sub>Made with ☕ and ☄️ by Pedro · profiles: <a href="https://github.com/pedroiff0">GitHub</a> · <a href="https://www.phrandrade.com/">Official site</a> · <a href="https://portfolio.phrandrade.com">Portfolio</a></sub>
 
 </div>
