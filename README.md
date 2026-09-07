@@ -165,7 +165,7 @@ No activity tracked
 | 🌑 **Dark Matter from ExtraGalactic Shocks** | Jr. SI · CNPq | Sep.22 — Mar.23 | Dr. A. C. Soja |
 | 🌫️ **MobFog at IFFMaker** (fog/edge computing) | SI · IFF | Aug.23 — Feb.24 | Dr. A. C. Soja |
 | 📡 **Impact of Satellites on Astronomical Observations** | Volunteer · CNPq | Aug.23 — Sep.23 | Dr. A. C. Soja |
-| ⭐ **Anomaly Detection in Milky Way Stars** | PIBIC · CNPq | Oct.25 — present | Dr. A. C. Soja & Dr. M. L. L. Dantas |
+| ⭐ **Anomaly Detection in Milky Way Stars — Fase II** | PIBIC · CNPq | Sep.26 — Aug.27 | Dr. A. C. Soja & Dr. M. L. L. Dantas |
 
 </div>
 
@@ -218,6 +218,6 @@ No activity tracked
 
 <br>
 
-<sub>Made with ☕ and ☄️ by Pedro · profiles: <a href="https://github.com/pedroiff0">GitHub</a> · <a href="https://www.phrandrade.com/">Official site</a> · <a href="https://portfolio.phrandrade.com">Portfolio</a></sub>
+<sub>© 2026 Pedro Rocha — Engenharia de Computação & Astrofísica Computacional · IFF / PIBIC-CNPq, feito com ☕, code e ☄️ por Pedro Henrique Rocha de Andrade</sub>
 
 </div>
