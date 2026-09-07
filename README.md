@@ -51,14 +51,26 @@ $ pedro --status --now
 │ 💞️  Open to collaborate: AI, academic systems, education     │
 │ 📫 Contact: pedroiff0@gmail.com                              │
 └──────────────────────────────────────────────────────────────┘
-```
+``` 
+ 
+---
+ 
+## 🏆 Achievements
+ 
+<div align="center">
+
+<a href="https://github.com/pedroiff0">
+  <img src="https://github-profile-trophy.vercel.app/?username=pedroiff0&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Achievements" />
+</a>
+
+</div>
 
 ---
 
-## 📡 Telemetry · *live stats*
-
+## 📡 Telemetry · live stats
+ 
 <div align="center">
-
+ 
 <img src="https://raw.githubusercontent.com/pedroiff0/pedroiff0/main/assets/orbit.svg" width="480" alt="orbiting system" />
 
 <br>
@@ -75,12 +87,29 @@ $ pedro --status --now
 
 </div>
 
+---
+
+## 📊 DevOps Stats Matrix
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroiff0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c678dd&icon_color=61afef&text_color=abb2bf&count_private=true" alt="GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroiff0&theme=radical&hide_border=true&bg_color=0d1117&title_color=c678dd&text_color=abb2bf&layout=compact&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=pedroiff0&theme=radical&hide_border=true&bg_color=0d1117&title_color=c678dd&text_color=abb2bf&layout=compact" alt="WakaTime Stats" />
+
+</div>
+
 <!--
-  github-readme-stats (stats + top-langs) and github-profile-trophy were down on
-  the public instances (DEPLOYMENT_PAUSED / DEPLOYMENT_DISABLED). To re-enable a
-  full stats card, self-host on your own Vercel (fork github.com/anuraghazra/
-  github-readme-stats) and swap the URL:
-  https://YOUR-DEPLOY.vercel.app/api?username=pedroiff0&theme=radical
+  github-readme-stats (stats + top-langs + wakatime) and github-profile-trophy
+  are live on the public Vercel instance.
 
   WakaTime is now linked (secret WAKATIME_API_KEY set). The waka-readme workflow
   fills the "Recent activity" section daily (between START/END waka markers).
