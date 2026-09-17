@@ -21,6 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/🔗%20in/pedroiff0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroiff0/)
 [![Website](https://img.shields.io/badge/🌐%20phrandrade.com-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.phrandrade.com/)
 [![ORCID](https://img.shields.io/badge/🆔%200009--0003--6724--4640-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-6724-4640)
+[![Portfolio](https://img.shields.io/badge/🚀%20portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white)](https://pedroiff0.github.io/portfolio/)
 
 </div>
 
@@ -54,18 +55,6 @@ $ pedro --status --now
 ``` 
  
 ---
- 
-## 🏆 Achievements
- 
-<div align="center">
-
-<a href="https://github.com/pedroiff0">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedroiff0&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Achievements" />
-</a>
-
-</div>
-
----
 
 ## 📡 Telemetry · live stats
  
@@ -75,61 +64,20 @@ $ pedro --status --now
 
 <br>
 
-[![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedroiff0&theme=radical&hide_border=true&bg_color=0d1117&color=c678dd&line=61afef&point=abb2bf&area=true&area_color=1a1b3a)](https://github-readme-activity-graph.vercel.app/graph?username=pedroiff0)
-
 <img src="https://ghchart.rshah.org/c678dd/pedroiff0" alt="Pedro's contribution chart" />
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroiff0&theme=radical&hide_border=true&background=0d1117&stroke=c678dd&ring=c678dd&fire=c678dd&currStreakLabel=61afef&sideLabels=abb2bf&dates=abb2bf&v=2" alt="Streak" />
-
-[![WakaTime](https://img.shields.io/badge/⏱️%20WakaTime-tracked-7B2FBF?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@pedroiff0)
 
 [![Visitors](https://komarev.com/ghpvc/?username=pedroiff0&label=👀%20profile%20views&color=c678dd&style=for-the-badge)](https://komarev.com/ghpvc/?username=pedroiff0)
 
 </div>
 
----
-
-## 📊 DevOps Stats Matrix
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroiff0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c678dd&icon_color=61afef&text_color=abb2bf&count_private=true" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroiff0&theme=radical&hide_border=true&bg_color=0d1117&title_color=c678dd&text_color=abb2bf&layout=compact&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=pedroiff0&theme=radical&hide_border=true&bg_color=0d1117&title_color=c678dd&text_color=abb2bf&layout=compact" alt="WakaTime Stats" />
-
-</div>
-
 <!--
-  github-readme-stats (stats + top-langs + wakatime) and github-profile-trophy
-  are live on the public Vercel instance.
-
-  WakaTime is now linked (secret WAKATIME_API_KEY set). The waka-readme workflow
-  fills the "Recent activity" section daily (between START/END waka markers).
+  github-profile-trophy, github-readme-activity-graph and github-readme-stats
+  (stats + top-langs) were removed: the public Vercel instances they depend on
+  are returning 402/503 as of 2026-09. Re-add if/when those services recover,
+  or switch to a self-hosted instance.
 -->
-
----
-
-## 🐙 Recent activity · *GitHub feed*
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 09 September 2026 - To: 16 September 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-> 💡 Coding-time stats above are generated daily by the `waka-readme` workflow from your WakaTime API key.
 
 ---
 
@@ -140,17 +88,17 @@ No activity tracked
 | 🪐 Project | 🧰 Stack | 📡 Visibility | 🔗 |
 |---|---|---|---|
 | **ReLaTeX** `📄 software` | Docker · Node · Pug · LaTeX (Overleaf fork) | 🔒 private | [repo](https://github.com/pedroiff0/relatex) |
-| **Sistema Acadêmico** `💻 software` | Node · Express · MongoDB · EJS · vis-network | 🔒 private | [repo](https://github.com/pedroiff0/sistema-academico) |
-| **Sistema de Avaliações** `📝 software` | Node · Express · MongoDB · LaTeX | 🔒 private | [repo](https://github.com/pedroiff0/avaliacoes) |
-| **Finanças App** `💰 software` | Node · Express · MongoDB · JWT · Docker | 🔒 private | [repo](https://github.com/pedroiff0/financas-app) |
-| **Currículo (CV)** `📄 academic` | LaTeX · altacv · Makefile · biblatex | 🔒 private | [repo](https://github.com/pedroiff0/cv) |
+| **Academic System** `💻 software` | Node · Express · MongoDB · EJS · vis-network | 🔒 private | [repo](https://github.com/pedroiff0/sistema-academico) |
+| **Evaluation System** `📝 software` | Node · Express · MongoDB · LaTeX | 🔒 private | [repo](https://github.com/pedroiff0/avaliacoes) |
+| **Finance App** `💰 software` | Node · Express · MongoDB · JWT · Docker | 🔒 private | [repo](https://github.com/pedroiff0/financas-app) |
+| **CV (résumé)** `📄 academic` | LaTeX · altacv · Makefile · biblatex | ✅ public | [repo](https://github.com/pedroiff0/cv) |
 | **anomaly_detection** `🌟 research` | Python · Astropy · NumPy · Pandas · ML | 🔒 private | [repo](https://github.com/pedroiff0/anomaly_detection) |
 | **SpectraViewer** `🔬 research` | Python · FITS · Matplotlib | ✅ public | [repo](https://github.com/pedroiff0/spectraviewer) |
-| **Cálculo Numérico** `📐 academic` | Python · NumPy · CI · Docs | ✅ public | [repo](https://github.com/pedroiff0/CalculoNumerico) |
-| **Formulários** `📐 academic` | LaTeX · siunitx | ✅ public | [repo](https://github.com/pedroiff0/formularios) |
-| **guia-github** `📚 personal` | Docs · Actions | ✅ public | [repo](https://github.com/pedroiff0/guia-github) |
+| **Numerical Methods** `📐 academic` | Python · NumPy · CI · Docs | ✅ public | [repo](https://github.com/pedroiff0/CalculoNumerico) |
+| **Worksheets** `📐 academic` | LaTeX · siunitx | ✅ public | [repo](https://github.com/pedroiff0/formularios) |
+| **devops-guide** `📚 personal` | Docs · Actions | ✅ public | [repo](https://github.com/pedroiff0/devops-guide) |
 
-<sub>🌟 Full list (24 repositories) on the <a href="https://pedroiff0.github.io/webpage/">portfolio</a> and <a href="https://www.phrandrade.com/">official site</a>.</sub>
+<sub>🌟 Full list (24 repositories) on the <a href="https://pedroiff0.github.io/portfolio/">portfolio</a> and <a href="https://www.phrandrade.com/">official site</a>.</sub>
 
 </div>
 
@@ -165,7 +113,8 @@ No activity tracked
 | 🌑 **Dark Matter from ExtraGalactic Shocks** | Jr. SI · CNPq | Sep.22 — Mar.23 | Dr. A. C. Soja |
 | 🌫️ **MobFog at IFFMaker** (fog/edge computing) | SI · IFF | Aug.23 — Feb.24 | Dr. A. C. Soja |
 | 📡 **Impact of Satellites on Astronomical Observations** | Volunteer · CNPq | Aug.23 — Sep.23 | Dr. A. C. Soja |
-| ⭐ **Anomaly Detection in Milky Way Stars — Fase II** | PIBIC · CNPq | Sep.26 — Aug.27 | Dr. A. C. Soja & Dr. M. L. L. Dantas |
+| ⭐ **Anomaly Detection in Milky Way Stars — Phase I** | PIBIC · CNPq | TBD | Dr. A. C. Soja & Dr. M. L. L. Dantas |
+| ⭐ **Anomaly Detection in Milky Way Stars — Phase II** | PIBIC · CNPq | Sep.26 — Aug.27 | Dr. A. C. Soja & Dr. M. L. L. Dantas |
 
 </div>
 
@@ -183,8 +132,8 @@ No activity tracked
 
 ## 🌐 Portfolio & official site
 
-- 🚀 **Portfolio (short résumé):** https://pedroiff0.github.io/webpage/ — intro and summary of all work (public and private)
-- 🌐 **Official site (Quartz/Obsidian):** https://pedroiff0.github.io/page/ · https://www.phrandrade.com/ — full content, continuously in progress
+- 🚀 **Portfolio (short résumé):** https://pedroiff0.github.io/portfolio/ — intro and summary of all work (public and private)
+- 🌐 **Official site (Quartz/Obsidian):** https://www.phrandrade.com/ — full content, continuously in progress
 
 ---
 
@@ -218,6 +167,6 @@ No activity tracked
 
 <br>
 
-<sub>© 2026 Pedro Rocha — Engenharia de Computação & Astrofísica Computacional · IFF / PIBIC-CNPq, feito com ☕, code e ☄️ por Pedro Henrique Rocha de Andrade</sub>
+<sub>© 2026 Pedro Rocha — Computer Engineering & Computational Astrophysics · IFF / PIBIC-CNPq, made with ☕, code and ☄️ by Pedro Henrique Rocha de Andrade</sub>
 
 </div>
