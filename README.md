@@ -84,21 +84,23 @@ $ pedro --status --now
 
 <div align="center">
 
-| Project | Category | Stack | Visibility | Repo |
-|---|---|---|:---:|:---:|
-| **ReLaTeX** | software | Docker · Node · Pug · LaTeX (Overleaf fork) | <img src="https://api.iconify.design/mdi/lock.svg?color=%23e06c75" width="16" title="private" /> | [↗](https://github.com/pedroiff0/relatex) |
-| **Academic System** | software | Node · Express · MongoDB · EJS · vis-network | <img src="https://api.iconify.design/mdi/lock.svg?color=%23e06c75" width="16" title="private" /> | [↗](https://github.com/pedroiff0/sistema-academico) |
-| **Evaluation System** | software | Node · Express · MongoDB · LaTeX | <img src="https://api.iconify.design/mdi/lock.svg?color=%23e06c75" width="16" title="private" /> | [↗](https://github.com/pedroiff0/avaliacoes) |
-| **Finance App** | software | Node · Express · MongoDB · JWT · Docker | <img src="https://api.iconify.design/mdi/lock.svg?color=%23e06c75" width="16" title="private" /> | [↗](https://github.com/pedroiff0/financas-app) |
-| **CV (résumé)** | academic | LaTeX · altacv · Makefile · biblatex | <img src="https://api.iconify.design/mdi/check-circle.svg?color=%2398c379" width="16" title="public" /> | [↗](https://github.com/pedroiff0/cv) |
-| **anomaly_detection** | research | Python · Astropy · NumPy · Pandas · ML | <img src="https://api.iconify.design/mdi/lock.svg?color=%23e06c75" width="16" title="private" /> | [↗](https://github.com/pedroiff0/anomaly_detection) |
-| **SpectraViewer** | research | Python · FITS · Matplotlib | <img src="https://api.iconify.design/mdi/check-circle.svg?color=%2398c379" width="16" title="public" /> | [↗](https://github.com/pedroiff0/spectraviewer) |
-| **Numerical Methods** | academic | Python · NumPy · CI · Docs | <img src="https://api.iconify.design/mdi/check-circle.svg?color=%2398c379" width="16" title="public" /> | [↗](https://github.com/pedroiff0/CalculoNumerico) |
-| **Worksheets** | academic | LaTeX · siunitx | <img src="https://api.iconify.design/mdi/check-circle.svg?color=%2398c379" width="16" title="public" /> | [↗](https://github.com/pedroiff0/formularios) |
-| **devops-guide** | personal | Docs · Actions | <img src="https://api.iconify.design/mdi/check-circle.svg?color=%2398c379" width="16" title="public" /> | [↗](https://github.com/pedroiff0/devops-guide) |
-| **awesome-skills** | personal | Claude Code · Skills · MCP | <img src="https://api.iconify.design/mdi/check-circle.svg?color=%2398c379" width="16" title="public" /> | [↗](https://github.com/pedroiff0/awesome-skills) |
+| Project | Category | Stack | Repo |
+|---|---|---|:---:|
+| **Baton** | software | Python · Swift/AppKit · pdf.js · Tailscale | [↗](https://github.com/pedroiff0/baton) |
+| **quartz-site** | software | Quartz · Obsidian · TypeScript · Actions | [↗](https://github.com/pedroiff0/quartz-site) |
+| **Portfolio** | software | HTML · CSS · JS · Python (Markdown → site) | [↗](https://github.com/pedroiff0/portfolio) |
+| **awesome-skills** | software | Claude Code · Skills · MCP | [↗](https://github.com/pedroiff0/awesome-skills) |
+| **meu-setup** | software | Shell · Linux/Windows/macOS installer | [↗](https://github.com/pedroiff0/meu-setup) |
+| **projeto-profissional** | software | Node · Express · MongoDB · JWT (template) | [↗](https://github.com/pedroiff0/projeto-profissional) |
+| **SpectraViewer** | research | Python · FITS · Matplotlib (GALAH DR4) | [↗](https://github.com/pedroiff0/spectraviewer) |
+| **CV (résumé)** | academic | LaTeX · altacv · PT/EN/ES/FR | [↗](https://github.com/pedroiff0/cv) |
+| **Numerical Methods** | academic | Python · NumPy · CI · Docs | [↗](https://github.com/pedroiff0/calculo-numerico) |
+| **Worksheets** | academic | LaTeX · siunitx | [↗](https://github.com/pedroiff0/formularios) |
+| **devops-guide** | personal | Docs · TypeScript · Actions | [↗](https://github.com/pedroiff0/devops-guide) |
 
-<sub><img src="https://api.iconify.design/mdi/star-four-points.svg?color=%23c678dd" width="14" valign="middle" /> Full list (24 repositories) on the <a href="https://pedroiff0.github.io/portfolio/">portfolio</a> and <a href="https://www.phrandrade.com/">official site</a>.</sub>
+<sub><img src="https://api.iconify.design/mdi/lock.svg?color=%23e06c75" width="14" valign="middle" /> Public repositories only (11 of 34 in total, besides this profile). Private ones, mentioned only: ReLaTeX, Academic System, Evaluation System (+ Professors and Concurseiro modules), Finance App, Viagem App, Custos App, Dashboard Life, Researcher Hub, Anomaly Detection, Manga Reader, tg-agent-bridge, Verde Menta suite (Caixas, Controle de Estoque, Levantamento de Estoque, Planilhador), Models, hardcore-life and portfolio v1.</sub>
+
+<sub><img src="https://api.iconify.design/mdi/star-four-points.svg?color=%23c678dd" width="14" valign="middle" /> Full list (public and private) on the <a href="https://pedroiff0.github.io/portfolio/">portfolio</a> and <a href="https://www.phrandrade.com/">official site</a>.</sub>
 
 </div>
 
