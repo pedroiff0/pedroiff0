@@ -98,7 +98,7 @@ $ pedro --status --now
 | **Worksheets** | academic | LaTeX · siunitx | [↗](https://github.com/pedroiff0/formularios) |
 | **devops-guide** | personal | Docs · TypeScript · Actions | [↗](https://github.com/pedroiff0/devops-guide) |
 
-<sub><img src="https://api.iconify.design/mdi/lock.svg?color=%23e06c75" width="14" valign="middle" /> Public repositories only (11 of 34 in total, besides this profile). Private ones, mentioned only: ReLaTeX, Academic System, Evaluation System (+ Professors and Concurseiro modules), Finance App, Viagem App, Custos App, Dashboard Life, Researcher Hub, Anomaly Detection, Manga Reader, tg-agent-bridge, Verde Menta suite (Caixas, Controle de Estoque, Levantamento de Estoque, Planilhador), Models, hardcore-life and portfolio v1.</sub>
+<sub><img src="https://api.iconify.design/mdi/lock.svg?color=%23e06c75" width="14" valign="middle" /> Public repositories only (11 of 34 in total, besides this profile). Private ones, mentioned only: ReLaTeX, Academic System, Evaluation System (+ Professors and Concurseiro modules), Zênite (finance), Rumo (travel), Custos App, Dashboard Life, Researcher Hub, Anomaly Detection, Manga Reader, tg-agent-bridge, Verde Menta suite (Caixas, Controle de Estoque, Levantamento de Estoque, Planilhador), Models, hardcore-life and portfolio v1.</sub>
 
 <sub><img src="https://api.iconify.design/mdi/star-four-points.svg?color=%23c678dd" width="14" valign="middle" /> Full list (public and private) on the <a href="https://pedroiff0.github.io/portfolio/">portfolio</a> and <a href="https://www.phrandrade.com/">official site</a>.</sub>
 
@@ -115,8 +115,8 @@ $ pedro --status --now
 | **Dark Matter from ExtraGalactic Shocks** | Jr. SI · CNPq | Sep.22 — Mar.23 | Dr. A. C. Soja |
 | **MobFog at IFFMaker** (fog/edge computing) | SI · IFF | Aug.23 — Feb.24 | Dr. A. C. Soja |
 | **Impact of Satellites on Astronomical Observations** | Volunteer · CNPq | Aug.23 — Sep.23 | Dr. A. C. Soja |
-| **Anomaly Detection in Milky Way Stars — Phase I** | PIBIC · CNPq | Sep.25 — Aug.26 | Dr. A. C. Soja & Dr. M. L. L. Dantas |
-| **Anomaly Detection in Milky Way Stars — Phase II** | PIBIC · CNPq | Sep.26 — Aug.27 | Dr. A. C. Soja & Dr. M. L. L. Dantas |
+| **Anomaly Detection in Milky Way Stars — Phase I** | PIBIC · CNPq | Oct.25 — Sep.26 | Dr. A. C. Soja & Dr. M. L. L. Dantas |
+| **Anomaly Detection in Milky Way Stars — Phase II** | PIBIC · CNPq | Oct.26 — Sep.27 | Dr. A. C. Soja & Dr. M. L. L. Dantas |
 
 </div>
 
