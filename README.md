@@ -193,6 +193,6 @@ $ pedro --status --now
 
 <br>
 
-<sub>© 2026 Pedro Rocha — Computer Engineering & Computational Astrophysics · IFF / PIBIC-CNPq, made with ☕, code and ☄️ by Pedro Henrique Rocha de Andrade</sub>
+<sub>© 2026 Pedro Rocha — Computer Engineering & Computational Astrophysics · IFF / PIBIC-CNPq, made with <img src="https://api.iconify.design/mdi/coffee-outline.svg?color=%23c678dd" width="22" valign="middle" />, <img src="https://api.iconify.design/mdi/code-tags.svg?color=%23c678dd" width="22" valign="middle" /> and <img src="https://api.iconify.design/mdi/star-four-points-outline.svg?color=%23c678dd" width="22" valign="middle" /> by Pedro Henrique Rocha de Andrade</sub>
 
 </div>
